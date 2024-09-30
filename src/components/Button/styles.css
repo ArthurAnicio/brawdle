@@ -1,0 +1,26 @@
+#link{
+    padding: 1rem;
+    max-width: 15vw;
+    max-height: 8vh;
+    text-decoration: none;
+    margin-left: 1vw;
+    color: var(--preto);
+    background-color: var(--branco);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 3em;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+#link:hover{
+    background-color: var(--cinza);
+    scale: 1.05;
+}
+
+#link label{
+    cursor: pointer;
+}

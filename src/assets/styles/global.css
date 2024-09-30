@@ -1,0 +1,86 @@
+:root{
+    --verde: #11e04c;
+    --azul: #1D83E1;
+    --azul2: #00386B;
+    --azul3: #82c9ce;
+    --vermelho: #F42C20;
+    --amarelo: #f8dc4d;
+    --branco: #EDF2F5;
+    --cinza: #C6CBCE;
+    --cinza2: #eeeef0ee;
+    --preto: #16141a;
+    --roxo: #a500e6;
+    
+    font-size: 60%;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 100vh;
+    font-family: Poppins;
+    color: var(--branco);
+    background-color: var(--branco);
+}
+
+#container{
+    min-height: 73.9vh;
+}
+
+.list{
+    width: 80vw;
+    margin: 5vh auto;
+    background-color: var(--azul2);
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 0.6vw;
+}
+#Inicial{
+    background-color: var(--azul3);
+}
+#Raro{
+    background-color: var(--verde);
+}
+#Super-raro{
+    background-color: var(--azul);
+}
+#Epico{
+    background-color: var(--roxo);
+}
+#Mitico{
+    background-color: var(--vermelho);
+}
+#Lendario{
+    background-color: var(--amarelo);
+}
+
+#raridade-Inicial{
+    color: var(--azul3);
+    font-weight: 700;
+}
+#raridade-Raro{
+    color: var(--verde);
+    font-weight: 700;
+}
+#raridade-Super-raro{
+    color: var(--azul);
+    font-weight: 700;
+}
+#raridade-Epico{
+    color: var(--roxo);
+    font-weight: 700;
+}
+#raridade-Mitico{
+    color: var(--vermelho);
+    font-weight: 700;
+}
+#raridade-Lendario{
+    color: var(--amarelo);
+    font-weight: 700;
+}

@@ -1,0 +1,14 @@
+#footer-content {
+    background-color: var(--azul);
+    padding: 20px 0;
+    margin-top: 5vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#footer-content h1{
+    font-size: 3rem;
+    font-weight: 700;
+    color: var(--branco);
+}

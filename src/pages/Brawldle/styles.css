@@ -1,0 +1,143 @@
+#teste{
+    width: 30vw;
+    height: 20vh;
+    margin-top: 10vh;
+    background-color: var(--azul);
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#teste img{
+    height: 80%;
+}
+
+#content{
+    min-height: 80vh;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+#titulo{
+    width: 30vw;
+    background-color: var(--azul);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 20px;
+    font-size: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#titulo span{
+    margin-top: 1vh;
+    font-size: 0.8em;
+}
+
+#tentativa{
+    margin-top: 2vh;
+    height: 5vh;
+    width: 20vw;
+    border: solid var(--amarelo) 5px;
+    border-radius: 40px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    box-shadow: 0 0 5px var(--cinza);
+    transition: 0.15s ease-in-out;
+}
+
+#tentativaTxt{
+    height: 100%;
+    width: 80%;
+    padding-left: 5%;
+    border: none !important;
+    font-size: 1.8rem;
+    background-color: var(--cinza2);
+}
+
+#tentativaTxt:focus{
+    border: none;
+    outline: none;
+}
+
+#tentativa:has(>#tentativaTxt:focus){
+    box-shadow: 0 0 10px var(--amarelo);
+}
+
+#tentativa button{
+    height: 100%;
+    width: 20%;
+    border: none;
+    cursor: pointer;
+    background-color: var(--cinza2);
+}
+
+#tentativa button svg{
+    height: 80%;
+    fill: var(--amarelo);
+}
+
+#sugestoes {
+    width: 20vw;
+    border: none;
+    max-height: 150px;
+    overflow-y: auto;
+    background-color: var(--cinza);
+    color: var(--preto);
+    font-size: 2rem;
+    font-weight: 800;
+}
+#sugestoes li {
+    padding: 8px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+#sugestoes li img{
+    height: 8vh;
+    margin-right: 1vw;
+}
+#sugestoes li:hover {
+    background-color: #f0f0f0;
+}
+
+#tabela {
+    border-collapse: collapse;
+    border-spacing: 0;
+    margin-top: 5vh;
+    border: solid 5px var(--preto);
+    color: var(--preto);
+    text-decoration: none;
+    width: 85vw;
+}
+
+#tabela tr td {
+    border: solid 5px var(--preto);
+    width: 12.5%;
+    padding: 0;
+    font-size: 2.4rem;
+    font-weight: 700;
+    text-align: center;
+}
+
+#imagem-padrao{
+    width: 100%;
+}
+
+.certo {
+    background-color: var(--verde);
+    color: var(--branco);
+}
+
+.errado {
+    background-color: var(--vermelho);
+    color: var(--branco);
+}
+
