@@ -1,16 +1,20 @@
 :root{
-    --verde: #11e04c;
+    --verde: #24d155;
     --azul: #1D83E1;
     --azul2: #00386B;
     --azul3: #82c9ce;
-    --vermelho: #F42C20;
+    --vermelho: #da2319;
     --amarelo: #f8dc4d;
     --branco: #EDF2F5;
     --cinza: #C6CBCE;
     --cinza2: #eeeef0ee;
+    --cinza3: #A9A9A9;
+    --azul4: #000438;
     --preto: #16141a;
     --roxo: #a500e6;
     
+    box-sizing: border-box;
+
     font-size: 60%;
 }
 
@@ -23,7 +27,11 @@ body{
     height: 100vh;
     font-family: Poppins;
     color: var(--branco);
-    background-color: var(--branco);
+    background: fixed;
+    background-image: url(https://wallpapers.com/images/hd/womens-day-montage-brawl-stars-4k-s286n6ddxmjizuhg.jpg);
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: multiply;
+    
 }
 
 #container{

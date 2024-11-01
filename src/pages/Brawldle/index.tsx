@@ -75,7 +75,7 @@ function Brawldle() {
                 {sugestoes.length > 0 && (
                     <ul id='sugestoes'>
                         {sugestoes.map((brawler, index) => (
-                            <li key={index} onClick={() => selecionarSugestao(brawler.nome)}>
+                            <li key={index} onClick={() => {selecionarSugestao(brawler.nome)}}>
                                 <img src={brawler.imagem} alt="" />
                                 {brawler.nome}
                             </li>
@@ -99,7 +99,7 @@ function Brawldle() {
                     <tbody>
                         {tentativas.map((brawler, index) => (
                             <tr key={index}>
-                                <td><img id='imagem-padrao' src={brawler.imagem} alt={brawler.nome} width="50" /></td>
+                                <td className='img'><img id='imagem-padrao' src={brawler.imagem} alt={brawler.nome} width="50" /></td>
                                 <td className={getCellClass(brawler.genero, brawlerCerto?.genero)}>{brawler.genero}</td>
                                 <td className={getCellClass(brawler.especie, brawlerCerto?.especie)}>{brawler.especie}</td>
                                 <td className={getCellClass(brawler.raridade, brawlerCerto?.raridade)}>{brawler.raridade}</td>
@@ -111,11 +111,6 @@ function Brawldle() {
                         ))}
                     </tbody>
                 </table>
-                
-                <div id='teste'>
-                    <h1>Brawler</h1>
-                    <img src={brawlerCerto?.imagem} alt="" />
-                </div>
             </div>
             <Footer />
         </div>
