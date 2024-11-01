@@ -10,9 +10,11 @@
 }
 
 #header-content h1{
+    background: linear-gradient(to bottom, var(--branco), var(--branco),var(--cinza4));
     font-size: 7rem;
     font-weight: 800;
-    color: var(--branco);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
 }
 
 

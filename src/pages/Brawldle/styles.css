@@ -30,6 +30,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    box-shadow: 0 0 10px var(--azul4);
 }
 
 #titulo span{
@@ -48,7 +49,7 @@
     justify-content: center;
     align-items: center;
     flex-direction: row;
-    box-shadow: 0 0 5px var(--cinza);
+    box-shadow: 0 0 5px var(--amarelo);
     transition: 0.15s ease-in-out;
 }
 
@@ -58,7 +59,9 @@
     padding-left: 5%;
     border: none !important;
     font-size: 1.8rem;
-    background-color: var(--cinza2);
+    background-color: var(--cinza4);
+    color: var(--branco);
+    font-weight: 700;
 }
 
 #tentativaTxt:focus{
@@ -75,7 +78,7 @@
     width: 20%;
     border: none;
     cursor: pointer;
-    background-color: var(--cinza2);
+    background-color: var(--cinza4);
 }
 
 #tentativa button svg{
@@ -88,7 +91,7 @@
     border: none;
     max-height: 150px;
     overflow-y: auto;
-    background-color: var(--cinza);
+    background-color: var(--cinza4);
     color: var(--preto);
     font-size: 2rem;
     font-weight: 800;
@@ -109,35 +112,46 @@
 }
 
 #tabela {
+    width: 100%;
+    max-width: 1000px;
+    margin: 5vh auto;
     border-collapse: collapse;
-    border-spacing: 0;
-    margin-top: 5vh;
-    border: solid 5px var(--preto);
-    color: var(--preto);
-    text-decoration: none;
-    width: 1000px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    border-radius: 10px;
 }
 
+#tabela thead {
+    background-color: var(--azul2);
+    color: var(--branco);
+}
+
+#tabela thead tr {
+    font-size: 1.4em;
+    font-weight: bold;
+    text-transform: uppercase;
+}
 
 #tabela thead tr td {
-    display: table table-cell;
-    border: solid 5px var(--preto);
+    padding: 15px;
+    border-bottom: 2px solid var(--cinza2);
     width: 12.5%;
-    background: var(--branco);
-    font-size: 1.6em;
-    font-weight: 800;
-    text-align: center;
-    transition: 0.5s;
 }
 
+
 #tabela tbody tr td {
-    display: table table-cell;
-    border: solid 5px var(--preto);
-    width: 12.5%;
-    font-size: 2em;
-    font-weight: 900;
     text-align: center;
-    transition: 0.5s;
+    font-size: 1.2em;
+    color: var(--preto);
+    border-bottom: 1px solid var(--cinza3);
+    width: 12.5%;
+}
+
+#tabela caption {
+    caption-side: bottom;
+    font-size: 1em;
+    color: var(--cinza4);
+    padding: 5px;
 }
 .img{
     font-size: 0 !important;
@@ -149,12 +163,14 @@
 
 .certo {
     background-color: var(--verde);
-    color: var(--branco);
+    color: var(--branco) !important;
+    font-weight: 800;
 }
 
 .errado {
     background-color: var(--vermelho);
-    color: var(--branco);
+    color: var(--branco) !important;
+    font-weight: 800;
 }
 
 

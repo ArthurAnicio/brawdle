@@ -5,17 +5,28 @@
     height: 25vh;
     padding-bottom: 5vh;
     position: relative;
-    justify-content: center;
     align-items: end;
 }
 
 #footer-content h1{
-    font-size: 5rem;
+    margin: 0 auto;
+    font-size: 4rem;
     font-weight: 900;
     color: var(--branco);
+    display: flex;
+    align-items: center;
+    flex-direction: row;    
 }
 
 #footer-content span{
-    margin-left: 60px;
+    margin-left: 40px;
     color: #e28e9d;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+#footer-content span img{
+    height: 8rem;
+    margin-left: 10px;
 }

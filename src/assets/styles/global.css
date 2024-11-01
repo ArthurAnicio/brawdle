@@ -9,13 +9,10 @@
     --cinza: #C6CBCE;
     --cinza2: #eeeef0ee;
     --cinza3: #A9A9A9;
+    --cinza4: #6b5d81;
     --azul4: #000438;
     --preto: #16141a;
     --roxo: #a500e6;
-    
-    box-sizing: border-box;
-
-    font-size: 60%;
 }
 
 *{
@@ -28,7 +25,7 @@ body{
     font-family: Poppins;
     color: var(--branco);
     background: fixed;
-    background-image: url(https://wallpapers.com/images/hd/womens-day-montage-brawl-stars-4k-s286n6ddxmjizuhg.jpg);
+    background-image: url(https://images.alphacoders.com/128/1283410.jpg);
     background-color: rgba(0, 0, 0, 0.5);
     background-blend-mode: multiply;
     
