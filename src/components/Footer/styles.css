@@ -31,7 +31,7 @@
     margin-left: 10px;
 }
 
-@media (max-width: 450px) {
+@media (max-width: 700px) {
     #footer-content h1{
         font-size: 1.6rem;
     }
