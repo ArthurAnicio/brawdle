@@ -253,7 +253,7 @@
     }
 
     #tabela-container {
-        max-width: 98%;
+        width: 98%;
     }
 
     #tabela thead tr {
