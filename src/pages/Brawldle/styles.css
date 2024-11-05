@@ -145,6 +145,7 @@
 }
 .img{
     font-size: 0 !important;
+    height: 150px;
 }
 #imagem-padrao{
     height: 100%;
