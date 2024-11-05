@@ -11,33 +11,94 @@
             "hipercarga":true,
             "genero":"Mulher",
             "especie":"Humano",
-            "titulo":"",
+            "titulo":"Chega de Papo",
             "acessorios":[
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Fisgador",
+                    "descricao":"{Brawler} sai em disparada para surpreender o inimigo",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/acessorio-shelly-brawl-stars-fisgador-gadget-fast-foward.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Pombos de Argila",
+                    "descricao":"Após a ativação do acessório, durante os 5 segundos seguintes, o ataque principal da {Brawler} atingirá uma área menor, mas terá um alcance maior.",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/acessorio-shelly-brawl-stars-pombos-de-argila-gadget-clay-pingeons-300x300.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Xeque-mate",
+                    "descricao":"A Superbala da {Brawler} diminui a velocidade do inimigo por 2 segundos",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/poder-de-estrela-shelly-brawl-stars-xeque-mate-star-power-shell-shock.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Tônico Revigorante",
+                    "descricao":"Quando sua saúde está abaixo de 40%, {Brawler} recupera 2.000 pontos de saúde num piscar de olhos, mas é preciso esperar 15 segundos antes que a habilidade esteja disponível novamente",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2020/11/poder-de-estrela-shelly-brawl-stars-tonico-revigorante-star-power-band-aid-300x300.png"
+                },
+                {
+                    "nome":"Cano Duplo",
+                    "descricao":"O raio da Superbala fica 30% maior",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/hipercarga-shelly-brawl-stars-cano-duplo-hypercharge-double-barrel-240x300.png"
                 }
             ],
             "skins":[
                 {
-                    "nome":"",
-                    "imagem":""
+                    "nome":"Padrão",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-padrao-182x300.png"
+                },
+                {
+                    "nome":"Shelly Bandida",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-bandida-182x300.png"
+                },
+                {
+                    "nome":"Shelly Estelar",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-estelar-182x300.png"
+                },
+                {
+                    "nome":"Shelly Bruxa",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-bruxa-182x300.png"
+                },
+                {
+                    "nome":"Shelly PSG",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-psg-182x300.png"
+                },
+                {
+                    "nome":"Shelly Princesa",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-princesa-182x300.png"
+                },
+                {
+                    "nome":"Shelly Feiticeira",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-feiticeira-182x300.png"
+                },
+                {
+                    "nome":"Shelly Odalisca",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-odalisca-182x300.png"
+                },
+                {
+                    "nome":"Shelly Odalisca Ametista",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-odalisca-ametista-182x300.png"
+                },
+                {
+                    "nome":"Shelly Odalisca Turquesa",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-odalisca-turquesa-182x300.png"
+                },
+                {
+                    "nome":"Shelly Squad Busters",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-squad-busters-182x300.png"
+                },
+                {
+                    "nome":"Shelly Xerife",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-xerife-182x300.png"
+                },
+                {
+                    "nome":"Shelly Astral",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-astral-182x300.png"
+                },
+                {
+                    "nome":"Shelly Prateada",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-prateada-182x300.png"
+                },
+                {
+                    "nome":"Shelly Dourada",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/shelly-brawl-stars-skin-dourada-182x300.png"
                 }
             ]
         },
@@ -52,33 +113,86 @@
             "hipercarga":true,
             "genero":"Mulher",
             "especie":"Humano",
-            "titulo":"",
+            "titulo":"Fera Indomada",
             "acessorios":[
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Garra de Urso",
+                    "descricao":"{Brawler} ordena que seu urso golpeie violentamente o chão, deixando os inimigos na área atingida atordoados.",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/acessorio-nita-brawl-stars-garra-de-urso-gadget-bear-paws-150x150.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Pele Protetora",
+                    "descricao":"Pelos próximos 3,0 segundos, o urso da {Brawler} ganha 35% de proteção contra dano",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/acessorio-nita-brawl-stars-pele-protetora-gadget-faux-fur-150x150.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Amigo-urso",
+                    "descricao":"{Brawler} recupera 500 de saúde cada vez que seu urso acerta um inimigo. Quando ela inflige dano, o urso recupera 800 de saúde",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2020/11/poder-de-estrela-nita-brawl-stars-amigo-urso-star-power-bear-with-me-300x300.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Urso Hiperativo",
+                    "descricao":"O urso da {Brawler} ataca mais depressa, com tempo entre ataques reduzido em 60%.",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2020/11/poder-de-estrela-nita-brawl-stars-urso-hiperativo-star-power-hyper-bear-300x300.png"
+                },
+                {
+                    "nome":"Hiperurso",
+                    "descricao":"{Brawler} potencializa Bruce, que aumenta em tamanho e ganha 15% a mais de velocidade de movimento e 20% a mais de saúde.",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/hipercarga-nita-brawl-stars-hiperurso-hypercharge-hyperbearing-240x300.png"
                 }
             ],
             "skins":[
                 {
-                    "nome":"",
-                    "imagem":""
+                    "nome":"Padrão",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/nita-brawl-stars-skin-padrao-300x180.png"
+                },
+                {
+                    "nome":"Nita Panda",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/nita-brawl-stars-skin-panda-300x180.png"
+                },
+                {
+                    "nome":"Nita Rena",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/nita-brawl-stars-skin-rena-300x180.png"
+                },
+                {
+                    "nome":"Nita Shiba",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/nita-brawl-stars-skin-shiba-300x180.png"
+                },
+                {
+                    "nome":"Nita Coala",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/nita-brawl-stars-skin-coala-300x180.png"
+                },
+                {
+                    "nome":"Nita Baleia",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-baleia-300x180.png"
+                },
+                {
+                    "nome":"Nita Nian",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-nian-300x180.png"
+                },
+                {
+                    "nome":"Nita Gummybear",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-gummybear-300x180.png"
+                },
+                {
+                    "nome":"Nita com Presas",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-com-presas-300x180.png"
+                },
+                {
+                    "nome":"Nita Rui Shou",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-rui-shou-300x180.png"
+                },
+                {
+                    "nome":"Nita Mechagodzilla",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-mechagodzilla-300x180.png"
+                },
+                {
+                    "nome":"Nita Prateada",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-prateada-300x180.png"
+                },
+                {
+                    "nome":"Nita Dourada",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/06/nita-brawl-stars-skin-dourada-300x180.png"
                 }
             ]
         },
@@ -93,33 +207,102 @@
             "hipercarga":true,
             "genero":"Homem",
             "especie":"Humano",
-            "titulo":"",
+            "titulo":"Beldade",
             "acessorios":[
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Recarga Rápida",
+                    "descricao":"{Brawler} recarrega 2 balas instantaneamente.",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/acessorio-colt-brawl-stars-recarga-rapida-gadget-speedloader-150x150.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Bala de Prata",
+                    "descricao":"O próximo ataque de {Brawler} é um tiro poderoso com o dobro do dano de uma bala normal, mas é capaz de atravessar obstáculos e inimigos.",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/acessorio-colt-brawl-stars-bala-de-prata-gadget-silver-bullet-150x150.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Botas Estilosas",
+                    "descricao":"A velocidade de locomoção de {Brawler} aumenta em 13%",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/poder-de-estrela-colt-brawl-stars-botas-estilosas-star-power-slick-boots-150x150.png"
                 },
                 {
-                    "nome":"",
-                    "descricao":"",
-                    "icon":""
+                    "nome":"Magnum Especial",
+                    "descricao":"O alcance e a velocidade do ataque do {Brawler} aumentam em 11%",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/poder-de-estrela-colt-brawl-stars-magnum-especial-star-power-magnum-special-150x150.png"
+                },
+                {
+                    "nome":"Empunhadura Dupla",
+                    "descricao":"O raio de Ação do Trem-bala fica 35% maio",
+                    "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/hipercarga-colt-brawl-stars-empunhadura-dupla-hypercharge-dual-wielding-240x300.png"
                 }
             ],
             "skins":[
                 {
-                    "nome":"",
-                    "imagem":""
+                    "nome":"Padrão",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-padrao-238x300.png"
+                },
+                {
+                    "nome":"Colt Roqueiro",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-roqueiro-238x300.png"
+                },
+                {
+                    "nome":"Colt Agente Imperial",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-agente-imperial-238x300.png"
+                },
+                {
+                    "nome":"Colt Bandido",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-bandido-238x300.png"
+                },
+                {
+                    "nome":"Colt Corseiro",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-corsario-238x300.png"
+                },
+                {
+                    "nome":"Colt Desafiante",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2021/04/colt-brawl-stars-skin-desafiante-238x300.png"
+                },
+                {
+                    "nome":"Colt Pistoleiro",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-pistoleiro-238x300.png"
+                },
+                {
+                    "nome":"Colt River Plate",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-time-river-plate-238x300.png"
+                },
+                {
+                    "nome":"Colt Esportista",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-esportista-238x300.png"
+                },
+                {
+                    "nome":"Colt Tubarão",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-tubarao-238x300.png"
+                },
+                {
+                    "nome":"Colt Macaco",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-macaco-238x300.png"
+                },
+                {
+                    "nome":"Colt Anjo Sombrio",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-anjo-sombrio-238x300.png"
+                },
+                {
+                    "nome":"Colt Robô",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-robo-238x300.png"
+                },
+                {
+                    "nome":"Colt Robô Renegado",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-robo-renegado-238x300.png"
+                },
+                {
+                    "nome":"Colt Robô Supremo",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-robo-supremo-238x300.png"
+                },
+                {
+                    "nome":"Colt Prateado",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-prateado-238x300.png"
+                },
+                {
+                    "nome":"Colt Dourado",
+                    "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2018/07/colt-brawl-stars-skin-dourado-238x300.png"
                 }
             ]
         },
@@ -1060,7 +1243,7 @@
                 },
                 {
                     "nome":"Fora do Limite",
-                    "descricao":"A bola de goma da {Bibi} se reparte ao atingir um inimigo.",
+                    "descricao":"A bola de goma da {Brawler} se reparte ao atingir um inimigo.",
                     "icon":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2019/05/hipercarga-bibi-brawl-stars-fora-do-limite-hypercharge-out-of-bounds.png"
                 }
             ],
