@@ -18,12 +18,18 @@
     flex-direction: row;    
 }
 
-#footer-content span{
+#footer-content a{
     margin-left: 40px;
+    text-decoration: none;
     color: #911eee;
     display: flex;
     align-items: center;
-    flex-direction: row;
+    transition: 0.2s;
+}
+
+#footer-content a:hover{
+    color: #51078e;
+    scale: 0.8
 }
 
 #footer-content span img{
@@ -35,12 +41,7 @@
     #footer-content h1{
         font-size: 1.6rem;
     }
-    #footer-content span{
+    #footer-content a{
         margin-left: 10px;
-    }
-    #footer-content span img{
-        height: 
-        5rem;
-        margin-left: 5px;
     }
 }
