@@ -152,7 +152,7 @@
             "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/8-bit-wiki-brawl-stars-dicas-150x150.png",
             "trio":"Fliperama",
             "lancamento":2019,
-            "hipercarga":false,
+            "hipercarga":true,
             "genero":"Homem",
             "especie":"Robô"
         },
@@ -176,7 +176,7 @@
             "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2020/03/darryl-wiki-brawl-stars-dicas-150x150.png",
             "trio":"Piratas",
             "lancamento":2018,
-            "hipercarga":false,
+            "hipercarga":true,
             "genero":"Homem",
             "especie":"Robô"
         },
@@ -188,7 +188,7 @@
             "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/penny-wiki-brawl-stars-dicas-150x150.png",
             "trio":"Piratas",
             "lancamento":2018,
-            "hipercarga":false,
+            "hipercarga":true,
             "genero":"Mulher",
             "especie":"Humano"
         },
@@ -260,7 +260,7 @@
             "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/stu-wiki-brawl-stars-dicas.png",
             "trio":"Show de Manobras",
             "lancamento":2021,
-            "hipercarga":false,
+            "hipercarga":true,
             "genero":"Homem",
             "especie":"Robô"
         },
@@ -645,7 +645,7 @@
             "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/coronel-ruffs-wiki-brawl-stars-dicas-150x150.png",
             "trio":"Starr Force",
             "lancamento":2021,
-            "hipercarga":false,
+            "hipercarga":true,
             "genero":"Homem",
             "especie":"Animal"
         },
@@ -693,7 +693,7 @@
             "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2017/06/otis-wiki-brawl-stars-dicas-150x150.png",
             "trio":"Mar Profundo",
             "lancamento":2022,
-            "hipercarga":false,
+            "hipercarga":true,
             "genero":"Homem",
             "especie":"Desconhecida"
         },
@@ -1007,6 +1007,18 @@
             "lancamento":2024,
             "hipercarga":false,
             "genero":"Homem",
+            "especie":"Humano"
+        },
+        {
+            "id":85,
+            "nome":"Juju",
+            "raridade":"Mitico",
+            "classe":"Detonador",
+            "imagem":"https://www.brawlstarsdicas.com.br/wp-content/uploads/2024/10/brawler-juju-icone-brawl-stars.png",
+            "trio":"Bazar das Bizarrices",
+            "lancamento":2024,
+            "hipercarga":false,
+            "genero":"Mulher",
             "especie":"Humano"
         }
     ]

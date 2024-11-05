@@ -21,7 +21,6 @@
 }
 
 body{
-    height: 100vh;
     font-family: Poppins;
     color: var(--branco);
     background: fixed;
