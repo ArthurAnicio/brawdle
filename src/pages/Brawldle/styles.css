@@ -265,6 +265,11 @@
     #tabela tbody tr td {
         font-size: 1em; 
     }
+
+    .img {
+        height: 100px;
+        width: 100px !important;
+    }
 }
 
 
