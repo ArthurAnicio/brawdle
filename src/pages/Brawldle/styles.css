@@ -146,6 +146,7 @@
 .img{
     font-size: 0 !important;
     height: 150px;
+    width: 150px !important;
 }
 #imagem-padrao{
     height: 100%;
