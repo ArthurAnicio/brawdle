@@ -145,6 +145,8 @@
 }
 .img{
     font-size: 0 !important;
+    height: 150px;
+    width: 150px !important;
 }
 #imagem-padrao{
     height: 100%;
@@ -183,7 +185,7 @@
     justify-content: center;
 }
 .ganhou span{
-    font-size: 2.5rem;
+    font-size: 1.8rem;
     font-weight: 800;
     margin: 0 10px;
 }
@@ -235,7 +237,7 @@
     }
     #titulo {
         width: 90%;
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
     #titulo span {
         font-size: 1.2rem;
@@ -262,6 +264,11 @@
 
     #tabela tbody tr td {
         font-size: 1em; 
+    }
+
+    .img {
+        height: 100px;
+        width: 100px !important;
     }
 }
 
