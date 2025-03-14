@@ -1,50 +1,27 @@
-# React + TypeScript + Vite
+# ⭐Brawdle⭐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brawdle é um jogo de adivinhação estilo gamedle/wordle com os personagens do jogo mobile BrawlStars
 
-Currently, two official plugins are available:
+Ele está hopedado em [Brawdle](https://brawdle.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Brawdle](https://cdn.discordapp.com/attachments/1079859999196598323/1349378875766870036/image.png?ex=67d2e282&is=67d19102&hm=ba139fa76e209da6c3d1820ce0bf6e592a1522be14ef8c62e4acec12c3c427b6&)
 
-## Expanding the ESLint configuration
+## Como funciona 🔍
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+O programa escolhe um personagem do jogo aleatoriamente e não revela. O usuário digita o nome de um personagem e então as informações que correspondem com o personagem escolhido ficam verdes, as que não correspondem ficam vermelhos.
 
-- Configure the top-level `parserOptions` property like this:
+![Infos](https://cdn.discordapp.com/attachments/1079859999196598323/1349379554959032330/image.png?ex=67d2e324&is=67d191a4&hm=5d892e08eac0a9fb51aef342f6efc694d17b46922d4c9c9cae2c09c3bccee9cf&)
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+Quando o usuario acerta o personagem, um quadro verde aparece e não se pode mais digitar nenhum personagem.
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+![Vitoria](https://cdn.discordapp.com/attachments/1079859999196598323/1349379695535460444/image.png?ex=67d2e345&is=67d191c5&hm=7c9bee875524fbea08c7083102b562c8dae2051e190dbb48a4d052a36aa598b9&)
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+O personagem certo é escolhido aleatoriamente todo dia.
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+## **Tecnologias🛠️**
+
+- React
+- Typescript
+- HTML
+- CSS
+- Javascript
